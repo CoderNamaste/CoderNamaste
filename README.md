@@ -72,7 +72,6 @@ class CoderNamaste:
 [*] Bypassing SSL pinning & root detection
 [*] Reversing obfuscated APKs & minified JS
 [*] Analyzing custom protocols & API flows
-[*] Researching anti-bot systems (Akamai, Cloudflare, etc.)
 [*] Building automation tools that actually work
 ```
 
@@ -89,11 +88,7 @@ class CoderNamaste:
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
 > 🏆 52 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
