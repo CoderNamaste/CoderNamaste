@@ -81,6 +81,8 @@ class CoderNamaste:
 ## ⏰ Coding Patterns
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
@@ -97,8 +99,38 @@ class CoderNamaste:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 02/06/2026 20:38:40 UTC
+```text
+🌞 Morning                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌆 Daytime                107 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌃 Evening                136 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
+🌙 Night                  151 commits         █████████░░░░░░░░░░░░░░░░   35.61 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Tuesday                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Wednesday                110 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Thursday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Sunday                   102 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 8 mins              ████████████████████████░   97.21 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+```
+
+
+ Last Updated on 03/06/2026 02:57:36 UTC
 <!--END_SECTION:waka-->
 
 ---
