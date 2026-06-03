@@ -90,8 +90,6 @@ class CoderNamaste:
 
 > 🏆 53 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 14 Public Repositories 
  > 
 **I'm a Night 🦉** 
