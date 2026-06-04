@@ -77,62 +77,7 @@ class CoderNamaste:
 
 ---
 
-## ⏰ Coding Patterns
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2043%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 61 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-🌆 Daytime                107 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-🌃 Evening                136 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
-🌙 Night                  158 commits         █████████░░░░░░░░░░░░░░░░   36.57 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Tuesday                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                111 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Thursday                 61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Sunday                   102 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 8 mins              ████████████████████████░   97.21 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-
-
- Last Updated on 04/06/2026 14:41:35 UTC
-<!--END_SECTION:waka-->
-
----
 
 ## 📡 Reach Me
 
