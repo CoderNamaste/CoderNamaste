@@ -4,7 +4,7 @@
 ╔═══════════════════════════════════════════════════════════╗
 ║   $ whoami                                                ║
 ║   > CoderNamaste — Android & Web Reverse Engineer         ║
-║   > Frida | IDA Pro | API & Protocol Analysis             ║
+║   > Frida | IDA Pro                                       ║
 ║   > Anti-Bot Research | Automation | Security             ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -21,7 +21,7 @@ class CoderNamaste:
         self.name         = "CoderNamaste"
         self.role         = "Android & Web Reverse Engineer"
         self.tools        = ["Frida", "IDA Pro", "Jadx", "Burp Suite"]
-        self.focus        = ["API & Protocol Analysis", "Anti-Bot Research",
+        self.focus        = ["API Analysis", "Anti-Bot Research",
                              "Automation", "Security Exploration"]
         self.languages    = ["C", "Java", "Python", "JavaScript"]
         self.philosophy   = "Always curious about what happens under the hood 🔬"
